@@ -1,23 +1,22 @@
-bentoml #for deployment
 torchvision
 joblib
-tqdm #shows progress bar
-pip-chill #helps in matching the version of the libraries supported with specific version of python
+tqdm 
+pip-chill 
 wincertstore
-dvc #for datamanagement
-mlflow #to track every experiment
+dvc 
+mlflow 
 ipykernel
 numpy 
 pandas
 seaborn 
 
 
--e . #to install local Packages
+-e . 
 
-pytest==7.1.3 #for usecases
-tox==3.25.1 #for testcases
+pytest==7.1.3 
+tox==3.25.1 
 flake8 
 mypy
-black #to check linting
+black 
 
 

@@ -3,4 +3,6 @@ torchvison
 joblib
 tqdm #shows proogress bar
 pip-chill #helps in matching the version of the libraries supported with specific version of python
-wincertstore
+wincertstore 
+-e . #to install local Packages
+
